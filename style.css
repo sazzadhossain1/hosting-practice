@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  background-color: aqua;
+  height: 30vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.p-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  background-color: rgb(132, 10, 231);
+
+  font-size: 17px;
+  font-weight: 400;
+  height: 10vh;
+  margin-bottom: 20px;
+
+  padding: 20px 40px 50px 100px;
+  color: white;
+  /* overflow: scroll; */
+
+  text-align: center;
+  box-shadow: 3px 2px 10px 1px;
+  width: 600px;
+}
+
+/* Milestone 1 er 3 number module er 1 number ta ses and 2 number ta start */
